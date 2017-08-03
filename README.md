@@ -1,4 +1,4 @@
-# 2017-Cell-Zhang
+# 2017-Cell_Systems-Zhang
 In this project are five files:
 
 1.ipeaks.m is a function we used to detect notable peaks in single-cell Nuc.RelA time series.
